@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T06:07:53.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 HBPC/12.1.2.300" etag="15GfKRWb2Gv902WeUj6Z" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T06:08:18.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 HBPC/12.1.2.300" etag="q0tRVn3Rgxi64fHV4-7m" version="21.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="220" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pV1xDRQQZr5S3iy7DSRA-4" value="通过人脸识别设备，录入用户人脸信息" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
