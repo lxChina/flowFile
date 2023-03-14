@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T09:14:57.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 HBPC/12.1.2.300" etag="uHcLRs2ixUUzSkOpbXGb" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T09:17:50.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 HBPC/12.1.2.300" etag="xyyLPqEL0xKlB99wIJpl" version="21.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,23 +34,25 @@
         <mxCell id="iTxTnmrPjzGDXyez09_j-28" value="通过台式自主机办理（通过人脸识别选择扣费卡或刷卡）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="198" y="389" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iTxTnmrPjzGDXyez09_j-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTxTnmrPjzGDXyez09_j-55" target="iTxTnmrPjzGDXyez09_j-62">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iTxTnmrPjzGDXyez09_j-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="iTxTnmrPjzGDXyez09_j-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="479" y="260" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="iTxTnmrPjzGDXyez09_j-55" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;选择非持卡人入场方式：&lt;/span&gt;&lt;/div&gt;1.采集人脸&lt;br&gt;2.临时卡" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="359" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="iTxTnmrPjzGDXyez09_j-55" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;选择非持卡人入场方式：&lt;/span&gt;&lt;/div&gt;1.人脸设备采集人脸&lt;br&gt;2.发卡器制作临时卡" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="346" y="230" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTxTnmrPjzGDXyez09_j-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTxTnmrPjzGDXyez09_j-57" target="iTxTnmrPjzGDXyez09_j-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iTxTnmrPjzGDXyez09_j-57" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;选择非持卡人入场方式：&lt;/div&gt;&lt;span style=&quot;&quot;&gt;1.采集人脸&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;2.临时卡&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="359" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="iTxTnmrPjzGDXyez09_j-57" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;选择非持卡人入场方式：&lt;/div&gt;&lt;span style=&quot;&quot;&gt;1.自助机采集人脸&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;2.自助机刷临时卡&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="346" y="310" width="143" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTxTnmrPjzGDXyez09_j-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTxTnmrPjzGDXyez09_j-59" target="iTxTnmrPjzGDXyez09_j-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iTxTnmrPjzGDXyez09_j-59" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;选择非持卡人入场方式：&lt;/div&gt;&lt;span style=&quot;&quot;&gt;1.采集人脸&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="359" y="389" width="122" height="60" as="geometry" />
+        <mxCell id="iTxTnmrPjzGDXyez09_j-59" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;选择非持卡人入场方式：&lt;/div&gt;&lt;span style=&quot;&quot;&gt;1.自助机采集人脸&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="346" y="389" width="144" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTxTnmrPjzGDXyez09_j-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iTxTnmrPjzGDXyez09_j-62" target="iTxTnmrPjzGDXyez09_j-66">
           <mxGeometry relative="1" as="geometry" />
