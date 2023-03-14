@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T07:44:27.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 HBPC/12.1.2.300" version="21.0.6" etag="vOr9K1HoLdUQ8eltnYbT" type="github"><diagram name="第 1 页" id="erZQTDn6VcYdo4mGwzRN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-14T08:33:09.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 HBPC/12.1.2.300" etag="sA0ChASQD4pXXVVRdFPN" version="21.0.6" type="github">
+  <diagram name="第 1 页" id="erZQTDn6VcYdo4mGwzRN">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FLiarTVgA3Pk3n0SoIfW-1" target="FLiarTVgA3Pk3n0SoIfW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FLiarTVgA3Pk3n0SoIfW-1" target="FLiarTVgA3Pk3n0SoIfW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-1" value="用户入场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FLiarTVgA3Pk3n0SoIfW-2" target="FLiarTVgA3Pk3n0SoIfW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-2" value="通过刷卡进入闸机" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="407" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FLiarTVgA3Pk3n0SoIfW-4" target="FLiarTVgA3Pk3n0SoIfW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-4" value="通过刷人脸方式在储物柜进行衣物存放" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FLiarTVgA3Pk3n0SoIfW-7" target="FLiarTVgA3Pk3n0SoIfW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-7" value="通过人脸进入闸机" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="254" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FLiarTVgA3Pk3n0SoIfW-9" target="FLiarTVgA3Pk3n0SoIfW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FLiarTVgA3Pk3n0SoIfW-9" target="FLiarTVgA3Pk3n0SoIfW-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-9" value="是否有多张卡？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="244" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FLiarTVgA3Pk3n0SoIfW-11" target="FLiarTVgA3Pk3n0SoIfW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-11" value="存在多张卡规则扣费：&lt;br&gt;1、效期卡优先&lt;br&gt;2、低费先扣（金额卡和次卡需判断单次费用）" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="311" y="160" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-15" value="单卡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-16" value="多卡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="389" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FLiarTVgA3Pk3n0SoIfW-18" target="FLiarTVgA3Pk3n0SoIfW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-18" value="运动结束出场，通过人脸或刷卡从闸机口验证出场" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FLiarTVgA3Pk3n0SoIfW-20" target="FLiarTVgA3Pk3n0SoIfW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FLiarTVgA3Pk3n0SoIfW-20" target="FLiarTVgA3Pk3n0SoIfW-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-20" value="判断是否超时？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="441" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FLiarTVgA3Pk3n0SoIfW-22" target="FLiarTVgA3Pk3n0SoIfW-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-22" value="前台处理超时异常" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="559" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-24" value="超时" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="693" y="525" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-25" value="通过人脸或刷卡从闸机离场" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="559" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-28" value="未超时" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FLiarTVgA3Pk3n0SoIfW-30" value="通过人脸、或刷卡入场，需要判断是否有未处理的记录，有记录不能入场，需要先去前台处理异常" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="324" width="140" height="76" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
